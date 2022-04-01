@@ -28,7 +28,7 @@ main{
 }
 h3{
     text-align: center;
-    color: var(--white);
+    color: var(--grey);
     margin-top: 30px;
     padding : 5px 0;
 }
