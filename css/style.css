@@ -149,9 +149,6 @@ input[type="text"]{
     h3{
         font-size: 12px;
     }
-    form{
-        margin: 5px 50px;
-    }
     .form-card{
         width : 390px;
         height: 98%;
@@ -165,7 +162,7 @@ input[type="text"]{
     }
     #valider{
         position: absolute;
-        margin: 0 30px;
+        margin: 0 50px;
         width: 200px;
     }
 }
