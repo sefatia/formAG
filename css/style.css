@@ -149,6 +149,9 @@ input[type="text"]{
     h3{
         font-size: 12px;
     }
+    form{
+        margin: 5px 0p;
+    }
     .form-card{
         width : 390px;
         height: 98%;
