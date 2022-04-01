@@ -30,6 +30,7 @@ h3{
     text-align: center;
     color: var(--white);
     margin-top: 30px;
+    padding : 5px 0;
 }
 form{
     margin: 5px 150px;
@@ -121,10 +122,9 @@ input[type="text"]{
         
     }
     main{
-        margin-top: 400px;
+        margin-top: 500px;
     }
     h3{
-
         margin-top: 0;
     }
     form{
