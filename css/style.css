@@ -15,10 +15,6 @@
 }
 body{
     font-family: 'Poppins' , sans-serif;
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
-    background: var(--grey);
     background:  url('../asset/back.jpg') center/cover;
     height: 100vh;
     
