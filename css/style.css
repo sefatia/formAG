@@ -159,13 +159,13 @@ input[type="text"]{
     }
     input[type="text"]{
         outline: none;
-        min-width: 250px;
-        max-width: 300px;
+        min-width: 280px;
+        max-width: 310px;
         padding: 8px;
     }
     #valider{
         position: absolute;
-        margin: 0 10px;
+        margin: 0 30px;
         width: 200px;
     }
 }
